@@ -9,6 +9,8 @@ Um formulário criado na aula de Fundamentos de desenvolvimento Web no intuito d
 ## Função
 O site tem a função inicial de apenas mostrar áreas onde você pode colocar seu email, "assunto", do motivo de você estar fazendo contato, e "mensagem", aonde você poderia enviar uma mensagem explicativa informando detalhadamente o motivo do contato.
 
+![Site] (img/video.mp4)
+
 ## Tecnologias utilizadas 
 
 * ``HTML 5``
