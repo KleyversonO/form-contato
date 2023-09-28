@@ -1,13 +1,13 @@
-# form-contato
-Um formulário de contato que tem o interesse de te dar a oportunidade de falar caso você este atendo algum problema 
+# Formulário de Contato
+Um formulário de contato que tem o interesse de te dar a oportunidade de falar caso você esteja tendo algum problema. 
 
 ![Site](img/site.png)
 
 ## Descrição
-Um formulário criado na aula de Fundamentos de desenvolvimento Web no intuito de ensinar tanto como criar um formulário, como para criar um README atraente. 
+Um formulário criado na aula de Fundamentos de desenvolvimento Web no intuito de ensinar tanto como criar um formulário, como para criar um README, atraente visualmente, útil e intuitivo. Tendo suas descrições sobre o projeto autoexplicativas. 
 
 ## Função
-O site tem a função inicial de apenas mostrar areas onde você pode colocar seu email, assunto, do motivo de você estar fazendo contato, e mensagem, aonde você poderia enviar uma mensagem explicativa informando detalhadamente o motivo do contato
+O site tem a função inicial de apenas mostrar áreas onde você pode colocar seu email, "assunto", do motivo de você estar fazendo contato, e "mensagem", aonde você poderia enviar uma mensagem explicativa informando detalhadamente o motivo do contato.
 
 ## Tecnologias utilizadas 
 
