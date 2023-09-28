@@ -21,3 +21,6 @@ O site tem a função inicial de apenas mostrar áreas onde você pode colocar s
 
 ## Referência
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+
+## Autor
+Kleyverson
